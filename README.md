@@ -8,6 +8,9 @@
 
 Protected Online Entropy Matching (`POEM`) is a novel approach for test-time adaptation via online self-training. The method dynamically updates model parameters based on distribution shifts in the test data entropy, improving robustness while maintaining accuracy and calibration in the absence of shifts.
 
+Paper is available at:
+https://openreview.net/forum?id=qamfjyhPeg
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Components](#key-components)
